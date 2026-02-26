@@ -1,0 +1,16 @@
+--- New Session Started ---
+Key.enter
+'t'
+'e'
+'s'
+'t'
+Key.space
+'u'
+'m'
+'b'
+'e'
+'r'
+Key.space
+'2'
+Key.backspace
+Key.backspace
