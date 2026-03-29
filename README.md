@@ -18,16 +18,17 @@ This is a basic port scanner nmap-style tool
 7. Ransomware
 encryption.py file encrypts files with XOR text and replaces original content at the bit level with scrambled garbage text
 This simulates ransomware behavior. DO NOT USE ON MAIN MACHINE
-decryption.py reverses the encryption uses the same key
-`serverRansomWare.py acts as a C2-style server sends encryption key and hostname to attacker
-
-
+decryption.py reverses the encryption uses the same key`serverRansomWare.py acts as a C2-style server sends encryption key and hostname to attacker
+7. Password hash Cracker
+The passwordHashCracker.py file compares a list of common passwords against a hashed password to find the original password.
+ 
 * Client/server networking
 * XOR encryption
 * Port scanning
 * Keylogging
 * Ransomware simulation
 * Process abuse / crash simulation
+* Password cracker
 
 Use auto-py-to-exe for projects to run
 
